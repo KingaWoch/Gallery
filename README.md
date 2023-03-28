@@ -5,6 +5,7 @@
 ### Screenshot
 
 ![](./screenshot.png)
+![](./screenshot-open.png)
 
 ### Links
 
